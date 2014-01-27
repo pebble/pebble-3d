@@ -7,4 +7,4 @@ PDF and Step files are included
 
 FILES ARE FOR REFERENCE ONLY. SUBJECT TO CHANGE WITHOUT NOTICE.
 
-All Rights Reserved. 2013 Pebble Technology Corporation.
+All Rights Reserved. 2013-2014 Pebble Technology Corporation.
