@@ -8,4 +8,6 @@ Where possible, PDF, STL, and STP files are included.
 
 FILES ARE FOR REFERENCE ONLY. SUBJECT TO CHANGE WITHOUT NOTICE.
 
+Pebble Time 2 files are coming soon!
+
 All Rights Reserved. 2013, 2014, 2015, 2016 Pebble Technology Corporation.
